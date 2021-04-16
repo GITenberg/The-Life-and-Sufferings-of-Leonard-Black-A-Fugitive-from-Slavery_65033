@@ -1,11 +1,16 @@
 _repo: The-Life-and-Sufferings-of-Leonard-Black-A-Fugitive-from-Slavery_65033
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 65033-h/images/cover.jpg
 creator:
   author:
     agent_name: Black, Leonard
     gutenberg_agent_id: '53154'
     url: http://www.gutenberg.org/2009/agents/53154
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65033#The-Life-and-Sufferings-of-Leonard-Black-A-Fugitive-from-Slavery
 gutenberg_issued: '2021-04-09'
 gutenberg_type: Text
 identifiers:
